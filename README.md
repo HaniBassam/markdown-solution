@@ -5,11 +5,17 @@
 # Go to
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/).
 ## Fordele ved brug af Markdown 
+- Hurtig 
+- Nemt 
+- 
+- 
+
 ###### Her kan du få et nemt og hurtigt kig på koden.
 
 ##  Et kodeeksempel, der viser, hvordan man via JavaScript itererer et array vha. et for-loop ved at bruge Markdown.
 
-```
+### Eksemple på Javascript
+```javascript
 let number = 100;
 number += 10; // Tilføjer 10 til 'number'
 document.getElementById('output').innerHTML += number + '<br>'; (message);
@@ -20,18 +26,10 @@ document.getElementById('output').innerHTML += number + '<br>'; (message);
 
 ### Unordered
 
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
+* Hurtigt
+* Nemt 
+* overskueligt 
 
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
 
 ## Images
 
